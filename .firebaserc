@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "core-autofarmer-net-e1bc5"
+  },
+  "targets": {
+    "core-autofarmer-net-e1bc5": {
+      "hosting": {
+        "www": [
+          "core-autofarmer-net-e1bc5"
+        ]
+      }
+    }
+  }
+}

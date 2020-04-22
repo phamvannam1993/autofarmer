@@ -1,0 +1,9 @@
+export const GET_STARTUPS = 'GET_STARTUPS';
+export const ADD_STARTUP = 'ADD_STARTUP';
+export const DELETE_STARTUP = 'DELETE_STARTUP';
+export const SET_CURRENT = 'SET_CURRENT';
+export const CLEAR_CURRENT = 'CLEAR_CURRENT';
+export const UPDATE_STARTUP = 'UPDATE_STARTUP';
+export const FILTER_STARTUP = 'FILTER_STARTUP';
+export const CLEAR_FILTER = 'CLEAR_FILTER';
+export const STARTUP_ERROR = 'STARTUP_ERROR';
